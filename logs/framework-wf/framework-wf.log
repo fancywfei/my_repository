@@ -1,0 +1,3 @@
+ERROR [2018-08-27 16:40:16] C:\wfei\hello\framework_wf\account\accounts.py 103 get_bk_user_info 20976 22276 
+ 	 请求平台接口获取用户信息失败：login status has been logged out 
+
